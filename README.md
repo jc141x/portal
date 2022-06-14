@@ -32,16 +32,15 @@ Rules for GNU/Linux Pirates
 -----------------------------------------------
 
 ## [jc141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
-- The only official site on which we upload for now.
 
 -----------------------------------------------
 
-## [Rum](https://johncena141.eu.org:8141/johncena141/rum)
+## [rum](https://johncena141.eu.org:8141/johncena141/rum)
 - Our GUI game launcher.
 
 -----------------------------------------------
 
-## [Rumtricks](https://johncena141.eu.org:8141/johncena141/rumtricks)
+## [rumtricks](https://johncena141.eu.org:8141/johncena141/rumtricks)
 - Installer-less proper alternative to winetricks focused on speed and reliability. 
 
 -----------------------------------------------
