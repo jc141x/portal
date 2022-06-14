@@ -6,7 +6,7 @@
   <h1>Portal</h1>
 </div>
 
-## [johncena141 setup guide](https://johncena141.eu.org:8141/johncena141/jc141-bash/src/branch/main/setup/readme.md)
+## [jc141 setup guide](https://johncena141.eu.org:8141/johncena141/jc141-bash/src/branch/main/setup/readme.md)
 - Everything you need to do before playing our releases.
 
 -----------------------------------------------
@@ -31,7 +31,7 @@ Rules for GNU/Linux Pirates
 
 -----------------------------------------------
 
-## [johncena141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
+## [jc141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
 - The only official site on which we upload for now.
 
 -----------------------------------------------
