@@ -12,11 +12,5 @@
 
 - For technical support, come here.
 
-Rules for GNU/Linux Pirates
-
-- No NSWF media, vulgar language or flaming.
-- Topics not allowed: politics, gender/sexuality.
-- Only members of johncena141 can share pirated game files, in order to create a safe environment.
-
 ## [rum](https://github.com/jc141x/rum)
 - Our GUI game launcher.
