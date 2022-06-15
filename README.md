@@ -24,13 +24,3 @@ Rules for GNU/Linux Pirates
 
 ## [rum](https://johncena141.eu.org:8141/johncena141/rum)
 - Our GUI game launcher.
-
------------------------------------------------
-
-## [rumtricks](https://johncena141.eu.org:8141/johncena141/rumtricks)
-- Installer-less proper alternative to winetricks focused on speed and reliability. 
-
------------------------------------------------
-
-## [jc141-bash](https://johncena141.eu.org:8141/johncena141/jc141-bash)
-- Feel free to read what you run.
