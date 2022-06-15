@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://i.postimg.cc/NfxWWvdN/jc141.png">
-  </div>
-
-<div align="center">
-  <h1>Portal</h1>
+  <img src="https://i.postimg.cc/tC3VR1vD/jc141v4.png">
 </div>
+
+## [jc141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
 
 ## [jc141 setup guide](https://johncena141.eu.org:8141/johncena141/jc141-bash/src/branch/main/setup/readme.md)
 - Everything you need to do before playing our releases.
@@ -17,21 +15,10 @@
 - For technical support, come here.
 
 Rules for GNU/Linux Pirates
-- Languages allowed: English.
-
-- No private information sharing.
 
 - No NSWF media, vulgar language or flaming.
-
 - Topics not allowed: politics, gender/sexuality.
-
 - Only members of johncena141 can share pirated game files, in order to create a safe environment.
-
-- Use privacy friendly alternatives to sites like youtube, twitter or reddit for sharing links.
-
------------------------------------------------
-
-## [jc141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
 
 -----------------------------------------------
 
