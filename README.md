@@ -4,7 +4,7 @@
 
 ## [jc141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
 
-## [jc141 setup guide](https://johncena141.eu.org:8141/johncena141/jc141-bash/src/branch/main/setup/readme.md)
+## [jc141 setup guide](https://github.com/jc141x/jc141-bash/tree/master/setup)
 - Everything you need to do before playing our releases.
 
 -----------------------------------------------
@@ -22,5 +22,5 @@ Rules for GNU/Linux Pirates
 
 -----------------------------------------------
 
-## [rum](https://johncena141.eu.org:8141/johncena141/rum)
+## [rum](https://github.com/jc141x/rum)
 - Our GUI game launcher.
