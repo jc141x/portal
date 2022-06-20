@@ -15,3 +15,5 @@ Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF9
 
 ## [rum](https://github.com/jc141x/rum)
 - Our GUI game launcher.
+
+- LOOKING FOR DEVELOPERS!
