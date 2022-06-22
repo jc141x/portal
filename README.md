@@ -11,7 +11,7 @@ Room address: #rumpowered:matrix.org
 
 For technical support, come here.
 
-FIXING YOUR ISSUE IS NOT GUARANTEED, WE'RE NOT PAID PROFFESSIONALS.
+FIXING YOUR ISSUE IS NOT GUARANTEED, WE'RE NOT PAID PROFESSIONALS.
 
 ## [rum](https://github.com/jc141x/rum)
 Our GUI game launcher.
