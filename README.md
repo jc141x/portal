@@ -4,7 +4,7 @@ Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF9
 ## [jc141 setup guide](https://github.com/jc141x/jc141-bash/tree/master/setup)
 Everything you need to do before playing our releases.
 
-## [jc141 - Lobby for Matrix](https://matrix.to/#/#rumpowered:matrix.org)
+## [jc141 - matrix](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
 
 For technical support, come here.
