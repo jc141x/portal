@@ -1,3 +1,11 @@
+```
+1337x.to 1337x.st x1337x.ws x1337x.eu x1337x.se 1337x.is 1337x.gd
+```
+
+- These are the official 1337x domains. If you came from one with a different domain then it's fake and we won't provide support for anything downloaded from there.
+
+<br><br>
+
 ## [jc141 torrents on 1337x.to](https://1337x.to/user/johncena141/)
 Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF92sUrSED5b8GyY7Ayh57R1jUdcKZg7is2DW3
 
