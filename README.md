@@ -3,6 +3,7 @@
 ```
 
 - These are the official 1337x domains. If you came from one with a different domain then it's fake and we won't provide support for anything downloaded from there.
+- If your ISP has blocked 1337x then use [Tor](https://www.torproject.org/), a VPN, or a trusted public proxy; read more - https://1337x-proxy.github.io/
 
 <br><br>
 
