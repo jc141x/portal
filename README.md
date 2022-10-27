@@ -18,4 +18,4 @@ Room address: #rumpowered:matrix.org
 
 For technical support, come here.
 
-FIXING YOUR ISSUE IS NOT GUARANTEED, WE'RE NOT PAID PROFESSIONALS.
+This is a non-profit project. We do not guarantee that everything can be fixed or will be perfect.
