@@ -1,6 +1,6 @@
 ## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
 
-Browse through our releases in an ad-free and secure way.
+Browse through our releases in an ad-free and secure way. (Recommended)
 
 <br>
 
