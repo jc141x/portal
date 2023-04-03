@@ -1,3 +1,7 @@
+### Ideology
+
+The motivation behind the project is based on the communist and anti-capitalist ideology. We re-distribute games on the GNU/Linux operating system which is not directly controlled by a corporation such as Microsoft and provide blocking internet access from prying eyes in an environment where the user is viewed as a target for marketing schemes.
+
 ## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
 
 Browse through our releases in an ad-free and secure way. (Recommended)
