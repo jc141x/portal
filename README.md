@@ -1,7 +1,3 @@
-### Ideology
-
-The motivation behind the project is based on the communist and anti-capitalist ideology. We re-distribute games on the GNU/Linux operating system which is not directly controlled by a corporation such as Microsoft and provide blocking internet access from prying eyes in an environment where the user is viewed as a target for marketing schemes.
-
 ## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
 
 Browse through our releases in an ad-free and secure way. (Recommended)
@@ -36,3 +32,7 @@ Pay attention to the domain, there are many copy-cats.
 
 - These are the official 1337x domains. If you came from one with a different domain then it's fake and we won't provide support for anything downloaded from there.
 - If your ISP has blocked 1337x then use [Tor](https://www.torproject.org/), a VPN, or a trusted public proxy; read more - https://1337x-proxy.github.io/
+
+### Ideology
+
+The motivation behind the project is based on the communist and anti-capitalist ideology. We re-distribute games on the GNU/Linux operating system which is not directly controlled by a corporation such as Microsoft and provide blocking internet access from prying eyes in an environment where the user is viewed as a target for marketing schemes.
