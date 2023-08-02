@@ -22,7 +22,7 @@ Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF9
 
 ## [jc141 - 1337x.to](https://1337x.to/user/johncena141/)
 
-Browse through our releases on a torrent tracker. Frequent popups and ads without an ad blocker.
+Browse through our releases on a torrent tracker.
 
 Pay attention to the domain, there are many copy-cats.
 
