@@ -37,7 +37,7 @@ Pay attention to the domain, there are many copy-cats.
 
 ## [FAQ - Frequently asked questions](https://github.com/jc141x/jc141-bash/blob/master/FAQ.md) 
 
-Read asnwers to questions most people ask when they join our matrix.
+Read answers to questions most people ask when they join our matrix.
 
 ---
 
