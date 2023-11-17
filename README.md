@@ -4,7 +4,7 @@ Browse through our releases in an ad-free and secure way. (Recommended)
 
 ---
 
-## [jc141 - setup guide](https://github.com/jc141x/jc141-bash/tree/master/setup)
+## [jc141 - setup guide](https://gitlab.com/jc141x/setup)
 Everything you need to do before playing our releases.
 
 ---
